@@ -1,0 +1,7 @@
+konect/
+.idea/
+out/
+/ccmImpl.iml
+/ILPs.java
+*.sol
+*.pdf

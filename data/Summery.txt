@@ -1,0 +1,287 @@
+Heighest Degree
+Graphname   Center
+#Vertices
+#Neighbors of c (control)
+#Edges
+#"Free" Edges
+
+Highest degree: 17
+data/network repository/animal/reptilia-tortoise-network-fi.edges 174
+787
+17
+1197
+770
+
+Highest degree: 49
+data/konect/undirected-simple-small/adjnoun_adjacency/out.adjnoun_adjacency_adjacency 17
+112
+49
+425
+63
+
+Highest degree: 100
+data/konect/undirected-simple-small/arenas-jazz/out.arenas-jazz 66
+198
+100
+2742
+98
+
+Highest degree: 71
+data/konect/undirected-simple-small/arenas-email/out.arenas-email 104
+1133
+71
+5451
+1062
+
+Highest degree: 8
+data/konect/undirected-simple-small/contiguous-usa/out.contiguous-usa 4
+49
+8
+107
+41
+
+Highest degree: 12
+data/konect/undirected-simple-small/dolphins/out.dolphins 14
+62
+12
+159
+50
+
+Highest degree: 14
+data/konect/undirected-simple-small/moreno_zebra/out.moreno_zebra_zebra 12
+27
+14
+111
+13
+
+Highest degree: 17
+data/konect/undirected-simple-small/ucidata-zachary/out.ucidata-zachary 33
+34
+17
+78
+17
+
+Highest degree: 4800
+data/network repository/social/soc-anybeat/soc-anybeat.txt 4151
+12645
+4800
+49132
+7845
+
+Highest degree: 1134
+data/network repository/social/soc-brightkite/soc-brightkite.txt 40
+56739
+1134
+212945
+55605
+
+Highest degree: 1071
+data/network repository/social/tech-RL-caida/tech-RL-caida.txt 1730
+190914
+1071
+607610
+189843
+
+Highest degree: 16
+data/network repository/social/soc-firm-hi-tech/soc-firm-hi-tech.txt 28
+33
+16
+91
+17
+
+Highest degree: 102
+data/network repository/social/soc-wiki-Vote/soc-wiki-Vote.txt 430
+889
+102
+2914
+787
+
+Highest degree: 56
+data/network repository/bio/bio-yeast.mtx 146
+1458
+56
+1948
+1402
+
+Highest degree: 50
+data/network repository/bio/bio-diseasome.mtx 92
+516
+50
+1188
+466
+
+Highest degree: 237
+data/network repository/bio/bio-celegans.mtx 185
+453
+237
+2025
+216
+
+Highest degree: 190
+data/network repository/bio/bio-dmela.mtx 214
+7393
+190
+25569
+7203
+
+Highest degree: 504
+data/network repository/collaboration/ca-AstroPh.mtx 6933
+17903
+504
+196972
+17399
+
+Highest degree: 279
+data/network repository/collaboration/ca-CondMat.mtx 14562
+21363
+279
+91286
+21084
+
+Highest degree: 46
+data/network repository/collaboration/ca-CSphd.mtx 215
+1882
+46
+1740
+1836
+
+Highest degree: 61
+data/network repository/collaboration/ca-Erdos992.mtx 430
+5094
+61
+7515
+5033
+
+Highest degree: 491
+data/network repository/collaboration/ca-HepPh.mtx 8998
+11204
+491
+117619
+10713
+
+Highest degree: 81
+data/network repository/collaboration/ca-GrQc.mtx 3347
+4158
+81
+13422
+4077
+
+Highest degree: 34
+data/network repository/collaboration/ca-netscience.mtx 3
+379
+34
+914
+345
+
+Highest degree: 12
+data/network repository/collaboration/ca-sandi_auths.mtx 29
+86
+12
+124
+74
+
+Highest degree: 502
+data/network repository/econ/econ-beause.edges 455
+507
+502
+39628
+5
+
+Highest degree: 19
+data/network repository/infrastructure/inf-power.mtx 2553
+4941
+19
+6594
+4922
+
+Highest degree: 242
+data/network repository/infrastructure/inf-openflights.edges 52
+2939
+242
+15677
+2697
+
+Highest degree: 139
+data/network repository/infrastructure/inf-USAir97.mtx 117
+332
+139
+2126
+193
+
+Highest degree: 213
+data/network repository/misc/robot24c1_mat5.edges 247
+404
+213
+14283
+191
+
+Highest degree: 45
+data/network repository/brain/bn-cat-mixed-species_brain_1.edges 51
+65
+45
+730
+20
+
+Highest degree: 71
+data/TriangleClubs/anna.col.metis.edges 7
+138
+71
+493
+67
+
+Highest degree: 82
+data/TriangleClubs/david.col.metis.edges 6
+87
+82
+406
+5
+
+Highest degree: 4
+data/TriangleClubs/mug100_25.col.metis.edges 0
+100
+4
+166
+96
+
+Highest degree: 4
+data/TriangleClubs/mug100_1.col.metis.edges 0
+100
+4
+166
+96
+
+Highest degree: 4
+data/TriangleClubs/mug88_1.col.metis.edges 0
+88
+4
+146
+84
+
+Highest degree: 32
+data/TriangleClubs/1-FullIns_4.col.metis.edges 64
+93
+32
+593
+61
+
+Highest degree: 19
+data/TriangleClubs/3-FullIns_3.col.metis.edges 32
+80
+19
+346
+61
+
+Highest degree: 23
+data/TriangleClubs/4-FullIns_3.col.metis.edges 38
+114
+23
+541
+91
+
+Highest degree: 27
+data/TriangleClubs/5-FullIns_3.col.metis.edges 44
+154
+27
+792
+127
+
